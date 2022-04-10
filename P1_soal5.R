@@ -1,13 +1,5 @@
 #a
 #Fungsi Probabilitas dari Distribusi Exponensial
-lambda = 3
-
-set.seed(1)
-rnorm(1)
-
-p = rexp(1,lambda)
-p
-
 lamda = 3
 set.seed(1)
 rnorm(1)
