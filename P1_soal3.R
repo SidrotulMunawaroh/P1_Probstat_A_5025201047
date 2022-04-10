@@ -15,6 +15,8 @@ hist(rpois(n, p), main = 'Histogram Distribusi Poisson', col = "red")
 #3c
 #bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
 
+Pada point a dapat disimpulkan bahwa hasilnya tetap, sedangkan 
+pada point b dapat disimpulkan bahwa hasilnya bisa berubah
 
 #3d
 #Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
