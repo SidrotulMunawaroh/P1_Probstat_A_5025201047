@@ -26,7 +26,7 @@ hist(rgeom(x, prob = 0.20),
 #1e
 #Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.
 
-average = x * (prob = p)
+average = x/p
 average
-variance = x * (prob = p) * (1 - (prob = p))
+variance = (x-p)/(p^2)
 variance
